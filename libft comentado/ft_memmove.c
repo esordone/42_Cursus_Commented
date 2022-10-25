@@ -6,10 +6,13 @@
 /*   By: esordone <esordone@student.42barcel>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/20 11:46:08 by esordone          #+#    #+#             */
-/*   Updated: 2022/09/20 15:24:29 by esordone         ###   ########.fr       */
+/*   Updated: 2022/10/25 11:36:57 by esordone         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+//Aquesta funcio evita el overlap
+//1. copia len bytes de src a dst
+//2. si es superposen, es copies d'una manera no destructiva
 #include "libft.h"
 
 void	*ft_memmove(void *dst, const void *src, size_t len)
