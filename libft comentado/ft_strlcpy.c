@@ -6,10 +6,13 @@
 /*   By: esordone <esordone@student.42barcel>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/20 15:25:52 by esordone          #+#    #+#             */
-/*   Updated: 2022/10/25 11:42:04 by esordone         ###   ########.fr       */
+/*   Updated: 2022/10/26 12:45:11 by esordone         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+//1. copia fins a dstsize-1 caracters de src a dst
+//2. si dstsize no es 0 acada en '\0'
+//3. Retorna len de src
 #include "libft.h"
 
 size_t	ft_strlcpy(char *dst, const char *src, size_t dstsize)
