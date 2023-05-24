@@ -28,4 +28,3 @@ RECURSOS CONSULTADOS:
 1. https://gist.github.com/Alejandrocaro35/28bbec98f352db5df240ec146d59778d
 2. https://codeberg.org/Vusk/push_swap/src/branch/main
 3. https://github.com/ElPatatin/42-Cursus_Public/tree/master/Push_swap
-4. https://github.com/gemartin99/Push-Swap-Tester
