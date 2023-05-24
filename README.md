@@ -1,4 +1,4 @@
-# 42_Cursus_Commented
+# 42 Projects I made:
 <ul>
   		<li><b><a href="https://github.com/esordone/42_Cursus_Commented/tree/main/libft%20comentat">Libft</a></b>: project that replicates all functions of the C library.</li>
   		<li><b><a href="https://github.com/esordone/42_Cursus_Commented/tree/main/ft_printf%20comentat">ft_printf</a></b>: program that replicates printf.</li>
